@@ -1,0 +1,201 @@
+"cd_regime_internacao";"ano_realizacao";"cd_modalidade";"nm_modalidade";"n_internacao";"custo_procedimento"
+"1";"2023";"24";Autogestão;1203685;11525451406.83
+"1";"2023";"22";Cooperativa Médica;2076364;23824661268.20
+"1";"2023";"27";Filantropia;120230;1276196584.04
+"1";"2023";"25";Medicina De Grupo;2342149;25775697370.10
+"1";"2023";"28";Seguradora Especializada Em Saúde;934371;20611073484.44
+"1";"2024";"24";Autogestão;1111651;11577600619.10
+"1";"2024";"22";Cooperativa Médica;2032515;23645391043.27
+"1";"2024";"27";Filantropia;125205;1156395820.00
+"1";"2024";"25";Medicina De Grupo;2326561;25092707109.59
+"1";"2024";"28";Seguradora Especializada Em Saúde;876393;18371514749.15
+"2";"2023";"24";Autogestão;66349;527313162.03
+"2";"2023";"22";Cooperativa Médica;358041;1847141977.60
+"2";"2023";"27";Filantropia;22955;83854411.06
+"2";"2023";"25";Medicina De Grupo;310462;1096186317.09
+"2";"2023";"28";Seguradora Especializada Em Saúde;132322;1024243762.03
+"2";"2024";"24";Autogestão;82235;655378428.05
+"2";"2024";"22";Cooperativa Médica;364306;1855285870.32
+"2";"2024";"27";Filantropia;22423;90334147.92
+"2";"2024";"25";Medicina De Grupo;328081;1148662446.34
+"2";"2024";"28";Seguradora Especializada Em Saúde;119728;876363780.27
+"3";"2023";"24";Autogestão;33077;532986231.84
+"3";"2023";"22";Cooperativa Médica;70770;915035130.83
+"3";"2023";"27";Filantropia;2130;4113874.90
+"3";"2023";"25";Medicina De Grupo;69109;618317585.28
+"3";"2023";"28";Seguradora Especializada Em Saúde;54388;812809042.71
+"3";"2024";"24";Autogestão;28162;474674565.54
+"3";"2024";"22";Cooperativa Médica;61997;849201888.09
+"3";"2024";"27";Filantropia;2254;5451490.24
+"3";"2024";"25";Medicina De Grupo;69768;441692960.30
+"3";"2024";"28";Seguradora Especializada Em Saúde;50855;714502238.51
+;"2023";"22";Cooperativa Médica;;8704030.46
+"";"2015";"22";Cooperativa Médica;14607;73734508
+"";"2015";"24";Autogestão;46251;302519620
+"";"2015";"25";Medicina De Grupo;80131;308579251
+"";"2015";"27";Filantropia;66390;42950355
+"";"2015";"28";Seguradora Especializada Em Saúde;4275;56415306
+"1";"2015";"22";Cooperativa Médica;1387183;6936700223
+"1";"2015";"24";Autogestão;336274;4073194820
+"1";"2015";"25";Medicina De Grupo;1220524;9341269730
+"1";"2015";"27";Filantropia;102428;531807390
+"1";"2015";"28";Seguradora Especializada Em Saúde;874871;10414501473
+"2";"2015";"22";Cooperativa Médica;148929;4464674173
+"2";"2015";"24";Autogestão;21874;86057997
+"2";"2015";"25";Medicina De Grupo;68126;174239462
+"2";"2015";"27";Filantropia;4343;12568475
+"2";"2015";"28";Seguradora Especializada Em Saúde;65700;177538442
+"3";"2015";"22";Cooperativa Médica;39344;217799227
+"3";"2015";"24";Autogestão;31593;319050837
+"3";"2015";"25";Medicina De Grupo;13033;114581999
+"3";"2015";"27";Filantropia;1632;6167544
+"3";"2015";"28";Seguradora Especializada Em Saúde;24186;263320824
+"";"2016";"22";Cooperativa Médica;17207;103296203
+"";"2016";"24";Autogestão;45186;183951135
+"";"2016";"25";Medicina De Grupo;91639;474157289
+"";"2016";"27";Filantropia;16449;54137463
+"";"2016";"28";Seguradora Especializada Em Saúde;3178;31185022
+"1";"2016";"22";Cooperativa Médica;1648670;10849213341
+"1";"2016";"24";Autogestão;305452;4065091500
+"1";"2016";"25";Medicina De Grupo;1161247;10747994956
+"1";"2016";"27";Filantropia;91660;592866300
+"1";"2016";"28";Seguradora Especializada Em Saúde;854347;12126263163
+"2";"2016";"22";Cooperativa Médica;174247;756255884
+"2";"2016";"24";Autogestão;20496;89420828
+"2";"2016";"25";Medicina De Grupo;75970;251595914
+"2";"2016";"27";Filantropia;4052;11642561
+"2";"2016";"28";Seguradora Especializada Em Saúde;82028;275440424
+"3";"2016";"22";Cooperativa Médica;41861;375075858
+"3";"2016";"24";Autogestão;30269;314548932
+"3";"2016";"25";Medicina De Grupo;22740;154235487
+"3";"2016";"27";Filantropia;1034;2635975
+"3";"2016";"28";Seguradora Especializada Em Saúde;18541;313750015
+"";"2017";"22";Cooperativa Médica;85433;534690901
+"";"2017";"24";Autogestão;61059;455107438
+"";"2017";"25";Medicina De Grupo;210473;999666329
+"";"2017";"27";Filantropia;19568;92156413
+"";"2017";"28";Seguradora Especializada Em Saúde;2240;17891835
+"1";"2017";"22";Cooperativa Médica;1936686;14989947318
+"1";"2017";"24";Autogestão;391544;6246785452
+"1";"2017";"25";Medicina De Grupo;1407099;14055887492
+"1";"2017";"27";Filantropia;93442;640339612
+"1";"2017";"28";Seguradora Especializada Em Saúde;933510;14528309868
+"2";"2017";"22";Cooperativa Médica;181267;724679723
+"2";"2017";"24";Autogestão;24422;121433105
+"2";"2017";"25";Medicina De Grupo;98203;351036165
+"2";"2017";"27";Filantropia;12619;24899265
+"2";"2017";"28";Seguradora Especializada Em Saúde;95671;312554986
+"3";"2017";"22";Cooperativa Médica;61680;436059402
+"3";"2017";"24";Autogestão;35437;405633438
+"3";"2017";"25";Medicina De Grupo;35556;242185702
+"3";"2017";"27";Filantropia;158;1146693
+"3";"2017";"28";Seguradora Especializada Em Saúde;22492;488024266
+;"2023";"27";Filantropia;12;23151.35
+;"2023";"25";Medicina De Grupo;7647;20460907.62
+;"2024";"24";Autogestão;4585;29758599.96
+;"2024";"22";Cooperativa Médica;127;2966844.58
+;"2024";"27";Filantropia;1;1241.17
+;"2024";"25";Medicina De Grupo;1732;13894107.25
+"";"2018";"22";Cooperativa Médica;131012;881537416
+"";"2018";"24";Autogestão;31770;245303665
+"";"2018";"25";Medicina De Grupo;240371;1017374361
+"";"2018";"27";Filantropia;18824;93524608
+"";"2018";"28";Seguradora Especializada Em Saúde;975;7473049
+"1";"2018";"22";Cooperativa Médica;1794377;14146974595
+"1";"2018";"24";Autogestão;600860;6920900093
+"1";"2018";"25";Medicina De Grupo;1310979;12579693034
+"1";"2018";"27";Filantropia;93328;666453199
+"1";"2018";"28";Seguradora Especializada Em Saúde;552857;9008185202
+"2";"2018";"22";Cooperativa Médica;212437;835459718
+"2";"2018";"24";Autogestão;37443;179430946
+"2";"2018";"25";Medicina De Grupo;90218;388887383
+"2";"2018";"27";Filantropia;14901;26722371
+"2";"2018";"28";Seguradora Especializada Em Saúde;49020;215915613
+"3";"2018";"22";Cooperativa Médica;63738;501844541
+"3";"2018";"24";Autogestão;31064;393223208
+"3";"2018";"25";Medicina De Grupo;31816;160666329
+"3";"2018";"27";Filantropia;218;2229065
+"3";"2018";"28";Seguradora Especializada Em Saúde;13146;197380361
+"";"2019";"22";Cooperativa Médica;18974;1016152806
+"";"2019";"24";Autogestão;6167;79218456
+"";"2019";"25";Medicina De Grupo;36544;170876122
+"";"2019";"27";Filantropia;1293;6705431
+"";"2019";"28";Seguradora Especializada Em Saúde;1194;9022203
+"1";"2019";"22";Cooperativa Médica;1778731;18657647744
+"1";"2019";"24";Autogestão;894913;8478209574
+"1";"2019";"25";Medicina De Grupo;1448584;12750872441
+"1";"2019";"27";Filantropia;106868;774629156
+"1";"2019";"28";Seguradora Especializada Em Saúde;337476;5847012161
+"2";"2019";"22";Cooperativa Médica;227915;1336748961
+"2";"2019";"24";Autogestão;55074;303849793
+"2";"2019";"25";Medicina De Grupo;127950;440780527
+"2";"2019";"27";Filantropia;18468;37214554
+"2";"2019";"28";Seguradora Especializada Em Saúde;34378;246265018
+"3";"2019";"22";Cooperativa Médica;56589;517446699
+"3";"2019";"24";Autogestão;32324;468667014
+"3";"2019";"25";Medicina De Grupo;39456;183487171
+"3";"2019";"27";Filantropia;1837;4113045
+"3";"2019";"28";Seguradora Especializada Em Saúde;10008;233555053
+"";"2020";"22";Cooperativa Médica;4358;334025239.8
+"";"2020";"24";Autogestão;11125;151274313.5
+"";"2020";"25";Medicina De Grupo;41976;127281859.4
+"";"2020";"27";Filantropia;30;18695.42
+"";"2020";"28";Seguradora Especializada Em Saúde;6942;108167322.9
+"1";"2020";"22";Cooperativa Médica;1526698;23902034766
+"1";"2020";"24";Autogestão;736010;8006759442
+"1";"2020";"25";Medicina De Grupo;1262964;13557088017
+"1";"2020";"27";Filantropia;84355;762446039.4
+"1";"2020";"28";Seguradora Especializada Em Saúde;477842;9641477516
+"2";"2020";"22";Cooperativa Médica;184076;1721107630
+"2";"2020";"24";Autogestão;45057;314626668.1
+"2";"2020";"25";Medicina De Grupo;77218;373789473.2
+"2";"2020";"27";Filantropia;11800;26808065.68
+"2";"2020";"28";Seguradora Especializada Em Saúde;73240;440333346.5
+"3";"2020";"22";Cooperativa Médica;55431;602983306.2
+"3";"2020";"24";Autogestão;37212;521438553.4
+"3";"2020";"25";Medicina De Grupo;53080;223591705.2
+"3";"2020";"27";Filantropia;2824;5674430.59
+"3";"2020";"28";Seguradora Especializada Em Saúde;30349;381426206
+"";"2021";"22";Cooperativa Médica;7527;137059834.3
+"";"2021";"24";Autogestão;8016;123868367.2
+"";"2021";"25";Medicina De Grupo;23572;86921307.71
+"";"2021";"27";Filantropia;16;37231.66
+"";"2021";"28";Seguradora Especializada Em Saúde;4831;68269266.12
+"1";"2021";"22";Cooperativa Médica;1812419;21518561729
+"1";"2021";"24";Autogestão;750880;9518490310
+"1";"2021";"25";Medicina De Grupo;1510067;18374202940
+"1";"2021";"27";Filantropia;97479;1011015647
+"1";"2021";"28";Seguradora Especializada Em Saúde;664436;15993758918
+"2";"2021";"22";Cooperativa Médica;237747;1232916296
+"2";"2021";"24";Autogestão;56604;441308992.8
+"2";"2021";"25";Medicina De Grupo;183780;552312735.1
+"2";"2021";"27";Filantropia;15207;46499569.76
+"2";"2021";"28";Seguradora Especializada Em Saúde;97658;736268692
+"3";"2021";"22";Cooperativa Médica;71619;638951353.1
+"3";"2021";"24";Autogestão;37579;521763897
+"3";"2021";"25";Medicina De Grupo;63252;295553385.9
+"3";"2021";"27";Filantropia;2912;7021058.1
+"3";"2021";"28";Seguradora Especializada Em Saúde;41716;471453665.6
+"";"2022";"22";Cooperativa Médica;9567;156743687.8
+"";"2022";"24";Autogestão;7130;112202782.2
+"";"2022";"25";Medicina De Grupo;66114;79079785.91
+"";"2022";"27";Filantropia;31;305969.29
+"";"2022";"28";Seguradora Especializada Em Saúde;3724;44803617.42
+"1";"2022";"22";Cooperativa Médica;2059008;22205607715
+"1";"2022";"24";Autogestão;1143139;10142181558
+"1";"2022";"25";Medicina De Grupo;1810717;18592020188
+"1";"2022";"27";Filantropia;109672;996404786.6
+"1";"2022";"28";Seguradora Especializada Em Saúde;845338;18497856636
+"2";"2022";"22";Cooperativa Médica;301369;1520683106
+"2";"2022";"24";Autogestão;69483;509797781.8
+"2";"2022";"25";Medicina De Grupo;256438;723882606.8
+"2";"2022";"27";Filantropia;19064;59140758.37
+"2";"2022";"28";Seguradora Especializada Em Saúde;127847;960692210.6
+"3";"2022";"22";Cooperativa Médica;60622;746177340.6
+"3";"2022";"24";Autogestão;39731;524656056.5
+"3";"2022";"25";Medicina De Grupo;71844;281606379.9
+"3";"2022";"27";Filantropia;2329;4460071.41
+"3";"2022";"28";Seguradora Especializada Em Saúde;53437;558969007.2
+;"2023";"24";Autogestão;6082;41827740.74
+;"2023";"28";Seguradora Especializada Em Saúde;17047;190212758.55
+;"2024";"28";Seguradora Especializada Em Saúde;15059;165442163.20
